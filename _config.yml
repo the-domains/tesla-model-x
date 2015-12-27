@@ -1,14 +1,26 @@
-layout_spectrum: 0.7905208
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.1894474
 color:
   saturation: 0.6726773
   brandStrength: 0.3492304
-  lightness: 0.3437281
+  rhythmicContrast: 0.1923495
   brandColors:
     - '#20283A'
     - '#CEC5BE'
     - '#ADA19A'
     - '#5C4C41'
     - '#92ABCE'
-  rhythmicContrast: 0.1923495
-typography_spectrum: 0.1894474
+  lightness: 0.3437281
+layout_spectrum: 1
 name: Tesla Model X
