@@ -1,25 +1,25 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-03T19:27:19.346Z'
-dateModified: '2016-01-03T19:26:56.989Z'
+datePublished: '2016-01-03T19:31:32.021Z'
+dateModified: '2016-01-03T19:31:26.233Z'
 title: The Tesla Tilburg Factory Opening
 author: []
+sourcePath: _posts/2016-01-03-the-tesla-tilburg-factory-opening.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-03-the-tesla-tilburg-factory-opening.md
-published: true
 url: the-tesla-tilburg-factory-opening/index.html
-_type: WebPage
+_type: Article
 
 ---
 # The Tesla Tilburg Factory Opening
