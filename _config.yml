@@ -14,6 +14,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: The long road to my Tesla Model X
 cta:
   domain: null
   bucket: null
