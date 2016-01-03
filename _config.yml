@@ -1,6 +1,6 @@
 name: Tesla Model X
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.50678
 typography_spectrum: 0.74049
 collections:
   - index:
@@ -29,11 +29,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#20283A'
-    - '#CEC5BE'
-    - '#ADA19A'
-    - '#5C4C41'
-    - '#92ABCE'
+    - '#cadcd0'
+    - '#96ac9f'
+    - '#434629'
+    - '#ae6456'
+    - '#ba8a73'
   brandStrength: 0.4375
   lightness: 0.3437281
   saturation: 0.625
