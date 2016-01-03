@@ -1,7 +1,7 @@
 name: Tesla Model X
 favicon: null
-layout_spectrum: 0.75791
-typography_spectrum: 0.74049
+layout_spectrum: 0.76333
+typography_spectrum: 0.92658
 collections:
   - index:
       path: /
