@@ -1,3 +1,7 @@
+name: Tesla Model X
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.1894474
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.1894474
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.6726773
-  brandStrength: 0.3492304
-  rhythmicContrast: 0.1923495
   brandColors:
     - '#20283A'
     - '#CEC5BE'
     - '#ADA19A'
     - '#5C4C41'
     - '#92ABCE'
+  brandStrength: 0.3492304
   lightness: 0.3437281
-layout_spectrum: 1
-name: Tesla Model X
+  saturation: 0.6726773
+  rhythmicContrast: 0.1923495
+purpose: []
