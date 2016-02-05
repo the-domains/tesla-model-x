@@ -1,41 +1,41 @@
-name: Tesla Model X
-favicon: null
-layout_spectrum: 0.76333
-typography_spectrum: 0.92658
+title: The long road to my Tesla Model X
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-title: The long road to my Tesla Model X
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
 color:
+  saturation: 0.4574468
+  brandStrength: 0.875
+  lightness: 0.3489362
   brandColors:
     - '#ffffff'
     - '#333333'
     - '#cc0101'
     - '#00aff0'
     - '#de5d5d'
-  brandStrength: 0.875
-  lightness: 0.3437281
-  saturation: 0.3125
-  rhythmicContrast: 0.1923495
-purpose: []
+  rhythmicContrast: 0.4765958
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Tesla Model X
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.92658
+layout_spectrum: 0.76333
