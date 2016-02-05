@@ -13,16 +13,16 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  saturation: 0.4574468
+  saturation: 0.1170213
   brandStrength: 0.875
-  lightness: 0.3489362
+  lightness: 0.07446808
   brandColors:
     - '#ffffff'
     - '#333333'
     - '#cc0101'
     - '#00aff0'
     - '#de5d5d'
-  rhythmicContrast: 0.4765958
+  rhythmicContrast: 0.2191489
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Tesla Model X
 favicon: null
+name: Tesla Model X
 opengraph:
   image: null
   type: null
