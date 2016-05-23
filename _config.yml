@@ -13,7 +13,7 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.1170213
+  saturation: 0.9957447
   brandStrength: 0.5021276
   lightness: 0.3957447
   brandColors:
@@ -22,7 +22,7 @@ color:
     - '#cc0101'
     - '#00aff0'
     - '#de5d5d'
-  rhythmicContrast: 0.2191489
+  rhythmicContrast: 0.4148936
 cta:
   bucket: null
   version: null
